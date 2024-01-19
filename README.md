@@ -16,5 +16,8 @@ Tập test:
 
 https://drive.google.com/drive/folders/1yImP-FLBPLDY39LXncP3RySfzB2otNEs?usp=sharing
 
+dataset để huấn luyện mô hình:
+
+https://drive.google.com/drive/folders/1CiWTLIJHL44E4ILTOqPAK9tS4TM_PQ0q?usp=sharing
 
 ![Picture 2](/pictures_demo/Picture2_Demo.png)
