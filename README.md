@@ -12,4 +12,9 @@ Chạy web app demo:
 
 `streamlit run main.py`
 
+Tập test:
+
+https://drive.google.com/drive/folders/1yImP-FLBPLDY39LXncP3RySfzB2otNEs?usp=sharing
+
+
 ![Picture 2](/pictures_demo/Picture2_Demo.png)
