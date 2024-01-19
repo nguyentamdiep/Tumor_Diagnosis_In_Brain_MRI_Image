@@ -11,3 +11,5 @@ python Load_EfficientNetV2B1.py
 Chạy web app demo:
 
 `streamlit run main.py`
+
+![Picture 2](/pictures_demo/Picture2_Demo.png)
